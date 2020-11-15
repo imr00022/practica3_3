@@ -23,6 +23,7 @@ Para y eliminar las imágenes:
 $ docker-compose down
 
 Referencias consultadas:
+
 https://clouding.io/hc/es/articles/360010289000-Balancear-servicio-web-con-HAProxy-en-Ubuntu-18-04 
 
 https://servernotfound.es/haproxy-las-4-secciones-principales/
