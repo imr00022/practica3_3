@@ -32,4 +32,4 @@ services:
       - "8081:80"
     volumes:
       # HAProxy static config file
-      - ./haproxy/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg
+      - ./haproxy/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg 
