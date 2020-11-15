@@ -6,6 +6,7 @@ Docker
 ## Usos
 
 Para controlar los contenedores se hace uso de los comando habituales asociados a docker-compose (up, stop, start, down) 
+
 Debe ser ejecutado el comando de docker-compose en el directorio del proyecto: phpwebappv2
 
 
