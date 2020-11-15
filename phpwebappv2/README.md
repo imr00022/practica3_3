@@ -19,8 +19,11 @@ Acceso a los frontales web, mediante la URL: http://localhost:8081/
 Reconstruir imagenes de los contenedores:
 
 $ docker-compose build
+
 Para y eliminar las imágenes:
+
 $ docker-compose down
+
 
 Referencias consultadas:
 
